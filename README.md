@@ -5,5 +5,4 @@
 
 3-script is running
 
-#########################
 Programmer alert does not assume any responsibility for the user's inappropriate use 
