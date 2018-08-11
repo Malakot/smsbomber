@@ -18,7 +18,7 @@ spm="B"
 echo "Spam $B send!"
 continue
 done
-echo "                                                                Completed successfully                                                                       "
+echo "                                                                Completed successfully!                                                                      "
 echo ""
 echo ""
 echo "                                  If you have not received a spam, you have reached the limit of sending to a phone number                                   "
